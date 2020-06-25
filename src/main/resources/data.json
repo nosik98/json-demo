@@ -1,0 +1,13 @@
+[ {
+  "Foreigner" : "Slovak",
+  "Count" : 2000
+}, {
+  "Foreigner" : "Ukrainian",
+  "Count" : 2500
+}, {
+  "Foreigner" : "Russian",
+  "Count" : 500
+}, {
+  "Foreigner" : "Hungarian",
+  "Count" : 200
+} ]
